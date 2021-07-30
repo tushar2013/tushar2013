@@ -1,0 +1,8 @@
+use "git rm --cached <file>..." to unstage
+git log
+git diff filename>
+git diff --staged filename>
+git reset <filename>
+git checkout <filename>
+git branch {shows branch name}
+git branch <branchname> {changes branch to branchname}
